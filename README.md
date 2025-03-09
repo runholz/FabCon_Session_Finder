@@ -12,6 +12,8 @@ Please pay attention to the region because the service is not available in all r
 
 ## Power BI report
 The sample Power BI report can be found in the folder and as well the public published version can be found here:
+![image](https://github.com/user-attachments/assets/8a6ffc66-4a1d-429f-9004-e6105435a9d1)
+
 https://app.powerbi.com/view?r=eyJrIjoiY2NlYWNkODctNDIzZi00ODBhLTllYTgtM2MzMGVlNGExZjhjIiwidCI6IjI2ZGFjZDU4LTc1YWMtNDlkNC05ZjZkLTgzNjBjMjc2NTgxZSIsImMiOjh9
 
 
